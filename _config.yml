@@ -1,0 +1,24 @@
+typography_spectrum: 0.33717670873738825
+color:
+  brandStrength: 0.2441774671897292
+  lightness: 0.4984648353420198
+  saturation: 0.28046739124692976
+  rhythmicContrast: 0.7686070762574673
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.024200701620429754
+author:
+  name: Jan Otterstetter
+  email: info@kultur-in-kisdorf.de
+  url: www.kultur-in-kisdorf.de
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4788866b-afd2-4422-99a0-66ad3015fe42.jpg
+name: Kultur-in-Kisdorf
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bdc8dcf-2086-417f-8399-e39425284f22.ico
+content: []
