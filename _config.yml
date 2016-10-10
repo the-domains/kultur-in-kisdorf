@@ -12,6 +12,8 @@ color:
     - '#333333'
 github: true
 layout_spectrum: 0.024200701620429754
+analytics:
+  google: UA-85507809-1
 author:
   name: Jan Otterstetter
   email: info@kultur-in-kisdorf.de
